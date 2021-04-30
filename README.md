@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Kening Sun
 
-Love cool product
+Love making cool products
 
 Currently using Vue.js and Flutter
 
