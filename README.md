@@ -2,7 +2,7 @@
 
 Love cool product
 
-Currently using Vue and Flutter to make products
+Currently using Vue.js and Flutter
 
 <!--
 **keningsun/keningsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
