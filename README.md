@@ -1,6 +1,8 @@
 ### Hi there 👋 I am Kening Sun
+[![wakatime](https://wakatime.com/badge/user/f07ad710-354f-4e82-bf60-205ebee44d20.svg)](https://wakatime.com/@f07ad710-354f-4e82-bf60-205ebee44d20)
 
 Love making cool products
+
 
 Currently using Vue.js and Flutter
 
