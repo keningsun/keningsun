@@ -4,7 +4,7 @@
 Love making cool products
 
 
-Currently using Vue.js and Flutter
+Currently using JavaScript and Flutter
 
 <!--
 **keningsun/keningsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
